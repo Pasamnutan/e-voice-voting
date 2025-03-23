@@ -28,58 +28,58 @@ Despite the growing use of technology, there is still no proper digital mechanis
 - 🔐 An admin dashboard for local officials to track and address high-priority problems.
 
 This promotes:
-- Participatory governance
-- Transparency in issue resolution
+- Participatory governance  
+- Transparency in issue resolution  
 - Community-driven development
 
 ---
 
 ## 🚀 Core Features
 
-- 📝 **Issue Submission**: Citizens can easily post local issues using a simple form.
-- 👍 **Voting System**: Users can upvote/downvote based on priority.
-- 🔍 **Live Updates**: Vote counts and issue visibility update in real-time.
-- 🛠️ **Admin Dashboard**: Admins can manage, sort, and take action on reported issues.
-- 📂 **Categorization**: Issues are grouped under tags (e.g., Roads, Water, Electricity).
+- 📝 **Issue Submission**: Citizens can easily post local issues using a simple form.  
+- 👍 **Voting System**: Users can upvote/downvote based on priority.  
+- 🔍 **Live Updates**: Vote counts and issue visibility update in real-time.  
+- 🛠️ **Admin Dashboard**: Admins can manage, sort, and take action on reported issues.  
+- 📂 **Categorization**: Issues are grouped under tags (e.g., Roads, Water, Electricity).  
 - 🔔 **Notification Option** *(optional)*: Alerts users when their issue is addressed.
 
 ---
 
 ## 🧰 Tech Stack (Example)
 
-- **Frontend**: HTML, CSS, JavaScript / React / Flutter (based on actual implementation)
-- **Backend**: Node.js / Python Flask / Firebase
-- **Database**: Firebase Realtime DB / MongoDB / SQL
+- **Frontend**: HTML, CSS, JavaScript / React / Flutter (based on actual implementation)  
+- **Backend**: Node.js / Python Flask / Firebase  
+- **Database**: Firebase Realtime DB / MongoDB / SQL  
 - **Authentication**: Firebase Auth / Google OAuth (if applicable)
 
 ---
 
 ## 🔄 Workflow
 
-1. **Citizen logs in / accesses platform**
-2. **Reports an issue or votes on existing ones**
-3. **Votes are tallied in real-time**
-4. **Admin panel displays priority-wise issues**
+1. **Citizen logs in / accesses platform**  
+2. **Reports an issue or votes on existing ones**  
+3. **Votes are tallied in real-time**  
+4. **Admin panel displays priority-wise issues**  
 5. **Authorities can take action based on collective voting**
 
 ---
 
 ## 🎯 Impact
 
-- Enhances civic engagement
-- Encourages transparency in local governance
-- Ensures real needs are heard and addressed
+- Enhances civic engagement  
+- Encourages transparency in local governance  
+- Ensures real needs are heard and addressed  
 - Reduces manual complaint systems and bottlenecks
 
 ---
 
 ## 🔮 Future Scope
 
-- 📲 Mobile App with GPS tagging for issue location
-- 🌐 Multilingual support for wider adoption
-- 🧠 AI-based categorization and auto-prioritization
-- 🗃️ Data dashboards for government insights
-- 🔐 Role-based access and stronger security measures
+- 📲 Mobile App with GPS tagging for issue location  
+- 🌐 Multilingual support for wider adoption  
+- 🧠 AI-based categorization and auto-prioritization  
+- 🗃️ Data dashboards for government insights  
+- 🔐 Role-based access and stronger security measures  
 - 📥 Offline data sync for low-connectivity areas
 
 ---
@@ -90,3 +90,19 @@ This promotes:
 
 ---
 
+## 🏆 Hackathon Experience - Draper Nation x eTibet
+
+We proudly built **e-Voice Voting** during the [**Draper Nation x eTibet Hackathon**](https://draper-nation.gitbook.io/etibet) as part of **Team Titus**. This global event brought together forward-thinking minds to design blockchain-inspired solutions for public good.
+
+👥 **Team Name**: Titus  
+🌍 **Event**: Draper Nation x eTibet Hackathon  
+💡 **Theme Focus**: Public participation, digital governance, voice-based systems
+
+It was a collaborative and high-energy experience where we:
+- Ideated solutions to strengthen democracy through decentralized tools  
+- Explored innovative governance models that could apply to regions like Tibet  
+- Built a working prototype of *e-Voice Voting* with scalability and transparency in mind
+
+We were thrilled to contribute to a hackathon that aligned perfectly with our mission—amplifying community voices and making civic systems smarter.
+
+---
